@@ -1,0 +1,6 @@
+{
+  "personas": ["founder", "ceo", "head of growth", "vp marketing", "vp sales", "head of revenue", "revops", "gtm"],
+  "employees": [11, 200],
+  "keywords": ["outbound", "pipeline", "saas", "b2b", "demand generation"],
+  "allow_role_inboxes": false
+}

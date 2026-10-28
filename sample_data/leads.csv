@@ -1,0 +1,326 @@
+first_name,last_name,title,company,domain,email,employees,description
+Morgan,Haddad,Office Manager,Tidal Cloud,tidalcloud.example,morganhaddad@gmail.com,15,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Drew,Silva,CEO,Quartz Health,quartzhealth.example,drew.silva@othermail-5.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Avery,Garcia,Recruiter,Kestrel Health,kestrelhealth.example,avery.garcia@kestrelhealth.example,3,B2B marketplace focused on pipeline visibility
+Sam,Novak,GTM Engineer,Foxglove Studio,foxglovestudio.example,samnovak@gmail.com,15,boutique restaurant group
+Reese,Mori,Office Manager,Ironleaf Cloud,ironleafcloud.example,reese.moriatironleafcloud.example,3,regional landscaping and snow removal service
+Quinn,Okafor,Customer Support Lead,Summit Systems,summitsystems.example,quinn.okafor@summitsystems.example,15,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Drew,Brandt,Head of Revenue Operations,Kestrel Labs,kestrellabs.example,drew.brandt@kestrellabs.example,8,SaaS analytics product for logistics teams
+Drew,Larsen,Head of Revenue Operations,Harbor Studio,harborstudio.example,drew.larsen@harborstudio.example,2000,SaaS analytics product for logistics teams
+Jordan,Nguyen,Head of Revenue Operations,Summit Health,summithealth.example,jordan.nguyen@summithealth.example,2000,boutique restaurant group
+Reese,Mori,Founder,Summit Systems,summitsystems.example,reese.mori@summitsystems.example,90,regional landscaping and snow removal service
+Jamie,Silva,CEO,Lumen Labs,lumenlabs.example,support@lumenlabs.example,15,boutique restaurant group
+Alex,Nguyen,Customer Support Lead,Northwind Labs,northwindlabs.example,alex.nguyen@northwindlabs.example,8,dental practice management
+Taylor,Kim,Founder,Tidal Systems,tidalsystems.example,taylor.kim@othermail-1.example,8,B2B marketplace focused on pipeline visibility
+Jamie,Patel,Recruiter,Ironleaf Labs,ironleaflabs.example,jamie.patel@ironleaflabs.example,8,boutique restaurant group
+Jordan,Haddad,Head of Growth,Lumen Analytics,lumenanalytics.example,jordan.haddad@lumenanalytics.example,40,dental practice management
+Jamie,Larsen,CEO,Harbor Cloud,harborcloud.example,jamie.larsen@harborcloud.example,15,boutique restaurant group
+Jamie,Reyes,,Quartz Studio,quartzstudio.example,jamie.reyesatquartzstudio.example,8,regional landscaping and snow removal service
+Jamie,Kim,Head of Growth,Ironleaf Analytics,ironleafanalytics.example,jamie.kim@othermail-4.example,90,SaaS analytics product for logistics teams
+Jordan,Novak,Customer Support Lead,Kestrel Analytics,kestrelanalytics.example,jordan.novak@othermail-9.example,400,B2B marketplace focused on pipeline visibility
+Taylor,Garcia,Accountant,Ironleaf Works,ironleafworks.example,taylor.garcia@ironleafworks.example,40,SaaS analytics product for logistics teams
+Drew,Patel,Head of Revenue Operations,Kestrel Studio,kestrelstudio.example,drew.patel@kestrelstudio.example,90,dental practice management
+Morgan,Brandt,GTM Engineer,Bluepeak Labs,bluepeaklabs.example,morgan.brandt@bluepeaklabs.example,3,dental practice management
+Jamie,Reyes,Customer Support Lead,Kestrel Labs,kestrellabs.example,jamie.reyes@kestrellabs.example,8,B2B marketplace focused on pipeline visibility
+Drew,Novak,Customer Support Lead,Northwind Systems,northwindsystems.example,drew.novak@northwindsystems.example,90,SaaS analytics product for logistics teams
+Taylor,Okafor,Recruiter,Northwind Works,northwindworks.example,taylor.okafor@northwindworks.example,40,regional landscaping and snow removal service
+Alex,Haddad,Customer Support Lead,Kestrel Works,kestrelworks.example,hello@kestrelworks.example,8,boutique restaurant group
+Casey,Kim,VP Marketing,Northwind Works,northwindworks.example,casey.kim@northwindworks.example,15,boutique restaurant group
+Avery,Kim,Head of Growth,Summit Cloud,summitcloud.example,avery.kim@summitcloud.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Alex,Kim,Accountant,Northwind Systems,northwindsystems.example,alexkim@gmail.com,2000,B2B marketplace focused on pipeline visibility
+Reese,Nguyen,,Foxglove Logistics,foxglovelogistics.example,reese.nguyen@foxglovelogistics.example,90,dental practice management
+Quinn,Garcia,Accountant,Summit Health,summithealth.example,quinn.garcia@summithealth.example,8,demand generation agency for B2B software companies
+Jordan,Nguyen,Head of Revenue Operations,Harbor Analytics,harboranalytics.example,jordan.nguyen@harboranalytics.example,3,SaaS analytics product for logistics teams
+Jamie,Okafor,Customer Support Lead,Summit Cloud,summitcloud.example,jamie.okafor@summitcloud.example,40,dental practice management
+Morgan,Brandt,Customer Support Lead,Bluepeak Health,bluepeakhealth.example,morganbrandt@gmail.com,3,regional landscaping and snow removal service
+Sam,Novak,VP Marketing,Harbor Labs,harborlabs.example,sam.novak@harborlabs.example,8,SaaS analytics product for logistics teams
+Sam,Nguyen,CEO,Ironleaf Analytics,ironleafanalytics.example,sam.nguyen@othermail-4.example,150,SaaS analytics product for logistics teams
+Drew,Brandt,Software Engineer,Summit Works,summitworks.example,drew.brandt@summitworks.example,400,B2B marketplace focused on pipeline visibility
+Drew,Silva,Software Engineer,Summit Labs,summitlabs.example,drewsilva@gmail.com,2000,SaaS analytics product for logistics teams
+Morgan,Patel,GTM Engineer,Tidal Works,tidalworks.example,morgan.patel@tidalworks.example,150,dental practice management
+Reese,Larsen,Head of Revenue Operations,Kestrel Logistics,kestrellogistics.example,reese.larsenatkestrellogistics.example,90,demand generation agency for B2B software companies
+Casey,Kim,VP Marketing,Harbor Labs,harborlabs.example,casey.kim@harborlabs.example,150,regional landscaping and snow removal service
+Casey,Brandt,Customer Support Lead,Ironleaf Cloud,ironleafcloud.example,casey.brandt@ironleafcloud.example,90,dental practice management
+Reese,Garcia,CEO,Kestrel Logistics,kestrellogistics.example,reese.garcia@kestrellogistics.example,400,B2B marketplace focused on pipeline visibility
+Morgan,Brandt,VP Marketing,Quartz Logistics,quartzlogistics.example,morgan.brandt@quartzlogistics.example,15,dental practice management
+Quinn,Okafor,VP Marketing,Harbor Health,harborhealth.example,quinn.okafor@harborhealth.example,150,SaaS analytics product for logistics teams
+Drew,Novak,Recruiter,Tidal Labs,tidallabs.example,drew.novak@tidallabs.example,40,boutique restaurant group
+Avery,Patel,VP Marketing,Foxglove Systems,foxglovesystems.example,avery.patel@foxglovesystems.example,15,dental practice management
+Morgan,Novak,Office Manager,Summit Labs,summitlabs.example,morgan.novak@summitlabs.example,8,boutique restaurant group
+Drew,Silva,VP Sales,Tidal Systems,tidalsystems.example,drew.silvaattidalsystems.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Larsen,Customer Support Lead,Bluepeak Studio,bluepeakstudio.example,reese.larsen@bluepeakstudio.example,150,regional landscaping and snow removal service
+Casey,Brandt,Head of Revenue Operations,Foxglove Health,foxglovehealth.example,casey.brandtatfoxglovehealth.example,400,regional landscaping and snow removal service
+Casey,Silva,Software Engineer,Northwind Cloud,northwindcloud.example,support@northwindcloud.example,8,regional landscaping and snow removal service
+Casey,Mori,Founder,Northwind Works,northwindworks.example,casey.mori@northwindworks.example,40,B2B marketplace focused on pipeline visibility
+Alex,Patel,Recruiter,Ironleaf Analytics,ironleafanalytics.example,alex.patel@ironleafanalytics.example,400,B2B marketplace focused on pipeline visibility
+Alex,Okafor,Recruiter,Tidal Analytics,tidalanalytics.example,alex.okafor@tidalanalytics.example,8,demand generation agency for B2B software companies
+Casey,Patel,Accountant,Foxglove Studio,foxglovestudio.example,casey.patelatfoxglovestudio.example,150,boutique restaurant group
+Drew,Garcia,Head of Growth,Northwind Studio,northwindstudio.example,drewgarcia@gmail.com,3,dental practice management
+Jordan,Novak,Customer Support Lead,Lumen Cloud,lumencloud.example,jordan.novak@lumencloud.example,90,dental practice management
+Riley,Kim,Head of Growth,Quartz Works,quartzworks.example,riley.kim@quartzworks.example,2000,SaaS analytics product for logistics teams
+Casey,Nguyen,CEO,Northwind Analytics,northwindanalytics.example,support@northwindanalytics.example,2000,boutique restaurant group
+Drew,Nguyen,Recruiter,Ironleaf Works,ironleafworks.example,drew.nguyen@ironleafworks.example,150,SaaS analytics product for logistics teams
+Avery,Kim,Head of Growth,Summit Cloud,summitcloud.example,avery.kim@summitcloud.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Taylor,Garcia,Founder,Summit Studio,summitstudio.example,taylor.garcia@summitstudio.example,3,SaaS analytics product for logistics teams
+Alex,Okafor,Head of Revenue Operations,Ironleaf Health,ironleafhealth.example,alex.okafor@ironleafhealth.example,400,dental practice management
+Morgan,Patel,VP Marketing,Quartz Cloud,quartzcloud.example,support@quartzcloud.example,150,SaaS analytics product for logistics teams
+Avery,Silva,VP Sales,Quartz Logistics,quartzlogistics.example,avery.silva@quartzlogistics.example,40,regional landscaping and snow removal service
+Alex,Reyes,Head of Revenue Operations,Ironleaf Labs,ironleaflabs.example,alex.reyes@ironleaflabs.example,2000,SaaS analytics product for logistics teams
+Drew,Nguyen,Recruiter,Ironleaf Works,ironleafworks.example,drew.nguyen@ironleafworks.example,150,SaaS analytics product for logistics teams
+Quinn,Novak,VP Marketing,Lumen Cloud,lumencloud.example,quinn.novak@lumencloud.example,400,dental practice management
+Alex,Larsen,CEO,Kestrel Works,kestrelworks.example,alex.larsen@kestrelworks.example,15,regional landscaping and snow removal service
+Avery,Kim,Recruiter,Kestrel Studio,kestrelstudio.example,avery.kim@kestrelstudio.example,3,boutique restaurant group
+Morgan,Okafor,VP Sales,Tidal Logistics,tidallogistics.example,morgan.okafor@tidallogistics.example,90,regional landscaping and snow removal service
+Morgan,Haddad,Office Manager,Tidal Cloud,tidalcloud.example,morganhaddad@gmail.com,15,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Casey,Mori,GTM Engineer,Ironleaf Health,ironleafhealth.example,casey.mori@ironleafhealth.example,150,dental practice management
+Riley,Kim,VP Sales,Foxglove Systems,foxglovesystems.example,riley.kim@foxglovesystems.example,15,SaaS analytics product for logistics teams
+Alex,Novak,,Northwind Works,northwindworks.example,alex.novak@northwindworks.example,2000,SaaS analytics product for logistics teams
+Taylor,Reyes,,Tidal Health,tidalhealth.example,taylor.reyes@tidalhealth.example,40,boutique restaurant group
+Reese,Novak,GTM Engineer,Harbor Works,harborworks.example,reese.novak@harborworks.example,150,dental practice management
+Reese,Kim,Founder,Tidal Analytics,tidalanalytics.example,reese.kim@tidalanalytics.example,400,dental practice management
+Sam,Reyes,Head of Growth,Tidal Systems,tidalsystems.example,sam.reyes@tidalsystems.example,3,dental practice management
+Sam,Nguyen,CEO,Kestrel Analytics,kestrelanalytics.example,hello@kestrelanalytics.example,400,B2B marketplace focused on pipeline visibility
+Sam,Brandt,VP Sales,Bluepeak Health,bluepeakhealth.example,sam.brandt@bluepeakhealth.example,150,SaaS analytics product for logistics teams
+Morgan,Brandt,GTM Engineer,Tidal Health,tidalhealth.example,morgan.brandt@tidalhealth.example,90,regional landscaping and snow removal service
+Morgan,Reyes,Head of Revenue Operations,Quartz Works,quartzworks.example,info@quartzworks.example,3,SaaS analytics product for logistics teams
+Taylor,Haddad,Recruiter,Summit Cloud,summitcloud.example,taylor.haddad@summitcloud.example,8,boutique restaurant group
+Jamie,Silva,VP Marketing,Northwind Systems,northwindsystems.example,jamie.silva@northwindsystems.example,2000,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Drew,Novak,Head of Growth,Tidal Logistics,tidallogistics.example,drew.novak@tidallogistics.example,8,demand generation agency for B2B software companies
+Quinn,Mori,Head of Growth,Harbor Health,harborhealth.example,sales@harborhealth.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Okafor,Accountant,Kestrel Works,kestrelworks.example,riley.okafor@kestrelworks.example,90,SaaS analytics product for logistics teams
+Reese,Novak,Accountant,Quartz Systems,quartzsystems.example,reese.novak@quartzsystems.example,8,boutique restaurant group
+Sam,Garcia,,Ironleaf Studio,ironleafstudio.example,samgarcia@gmail.com,40,regional landscaping and snow removal service
+Casey,Brandt,Customer Support Lead,Ironleaf Studio,ironleafstudio.example,casey.brandt@ironleafstudio.example,150,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Morgan,Haddad,CEO,Quartz Labs,quartzlabs.example,morgan.haddad@quartzlabs.example,3,regional landscaping and snow removal service
+Jordan,Brandt,VP Marketing,Summit Analytics,summitanalytics.example,jordan.brandt@summitanalytics.example,150,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Casey,Brandt,Customer Support Lead,Ironleaf Cloud,ironleafcloud.example,casey.brandt@ironleafcloud.example,90,dental practice management
+Quinn,Garcia,Head of Growth,Bluepeak Systems,bluepeaksystems.example,quinn.garcia@bluepeaksystems.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Drew,Larsen,Office Manager,Harbor Systems,harborsystems.example,drew.larsen@harborsystems.example,15,regional landscaping and snow removal service
+Taylor,Garcia,Customer Support Lead,Harbor Systems,harborsystems.example,taylor.garciaatharborsystems.example,8,B2B marketplace focused on pipeline visibility
+Casey,Larsen,,Tidal Studio,tidalstudio.example,casey.larsen@tidalstudio.example,2000,regional landscaping and snow removal service
+Avery,Silva,Head of Revenue Operations,Lumen Health,lumenhealth.example,avery.silva@lumenhealth.example,15,boutique restaurant group
+Quinn,Novak,VP Marketing,Lumen Cloud,lumencloud.example,quinn.novak@lumencloud.example,400,dental practice management
+Taylor,Kim,,Bluepeak Labs,bluepeaklabs.example,taylor.kim@bluepeaklabs.example,8,SaaS analytics product for logistics teams
+Taylor,Patel,VP Sales,Bluepeak Systems,bluepeaksystems.example,taylorpatel@gmail.com,3,B2B marketplace focused on pipeline visibility
+Jamie,Reyes,GTM Engineer,Summit Labs,summitlabs.example,jamie.reyes@summitlabs.example,400,dental practice management
+Taylor,Garcia,,Tidal Studio,tidalstudio.example,taylorgarcia@gmail.com,8,B2B marketplace focused on pipeline visibility
+Jamie,Haddad,Head of Growth,Quartz Analytics,quartzanalytics.example,jamie.haddad@quartzanalytics.example,3,dental practice management
+Reese,Reyes,Accountant,Northwind Works,northwindworks.example,reese.reyes@northwindworks.example,8,boutique restaurant group
+Quinn,Haddad,VP Marketing,Ironleaf Systems,ironleafsystems.example,quinn.haddad@ironleafsystems.example,2000,dental practice management
+Riley,Haddad,Recruiter,Bluepeak Logistics,bluepeaklogistics.example,riley.haddad@bluepeaklogistics.example,40,regional landscaping and snow removal service
+Taylor,Larsen,Office Manager,Lumen Systems,lumensystems.example,taylor.larsen@lumensystems.example,40,dental practice management
+Alex,Larsen,Office Manager,Ironleaf Studio,ironleafstudio.example,alexlarsen@gmail.com,400,regional landscaping and snow removal service
+Sam,Novak,GTM Engineer,Kestrel Labs,kestrellabs.example,sam.novak@kestrellabs.example,2000,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Taylor,Garcia,Recruiter,Lumen Logistics,lumenlogistics.example,taylor.garcia@lumenlogistics.example,2000,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Avery,Nguyen,VP Marketing,Foxglove Systems,foxglovesystems.example,sales@foxglovesystems.example,3,boutique restaurant group
+Quinn,Silva,Customer Support Lead,Northwind Systems,northwindsystems.example,quinn.silva@othermail-9.example,8,B2B marketplace focused on pipeline visibility
+Alex,Haddad,Office Manager,Harbor Cloud,harborcloud.example,alex.haddad@othermail-5.example,3,regional landscaping and snow removal service
+Casey,Reyes,Software Engineer,Summit Cloud,summitcloud.example,casey.reyes@summitcloud.example,150,boutique restaurant group
+Quinn,Nguyen,Head of Growth,Tidal Works,tidalworks.example,quinn.nguyen@tidalworks.example,15,regional landscaping and snow removal service
+Riley,Garcia,Recruiter,Bluepeak Labs,bluepeaklabs.example,riley.garcia@bluepeaklabs.example,90,B2B marketplace focused on pipeline visibility
+Sam,Haddad,Recruiter,Foxglove Labs,foxglovelabs.example,sam.haddad@foxglovelabs.example,40,boutique restaurant group
+Morgan,Okafor,VP Sales,Quartz Logistics,quartzlogistics.example,hello@quartzlogistics.example,3,boutique restaurant group
+Jordan,Kim,,Northwind Health,northwindhealth.example,jordan.kimatnorthwindhealth.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jordan,Okafor,GTM Engineer,Tidal Works,tidalworks.example,jordan.okafor@tidalworks.example,90,demand generation agency for B2B software companies
+Casey,Novak,Software Engineer,Tidal Logistics,tidallogistics.example,casey.novak@tidallogistics.example,15,regional landscaping and snow removal service
+Jamie,Reyes,VP Marketing,Tidal Systems,tidalsystems.example,jamie.reyes@tidalsystems.example,8,demand generation agency for B2B software companies
+Sam,Reyes,Software Engineer,Northwind Analytics,northwindanalytics.example,sam.reyes@northwindanalytics.example,8,SaaS analytics product for logistics teams
+Quinn,Nguyen,Head of Growth,Tidal Works,tidalworks.example,quinn.nguyen@tidalworks.example,15,regional landscaping and snow removal service
+Reese,Kim,Office Manager,Ironleaf Works,ironleafworks.example,reese.kim@ironleafworks.example,8,demand generation agency for B2B software companies
+Alex,Garcia,Software Engineer,Summit Logistics,summitlogistics.example,alex.garcia@summitlogistics.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Quinn,Mori,Head of Growth,Harbor Health,harborhealth.example,sales@harborhealth.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jordan,Okafor,Customer Support Lead,Quartz Studio,quartzstudio.example,jordan.okafor@quartzstudio.example,15,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Garcia,CEO,Ironleaf Cloud,ironleafcloud.example,riley.garcia@ironleafcloud.example,150,dental practice management
+Reese,Nguyen,Recruiter,Quartz Cloud,quartzcloud.example,reese.nguyen@quartzcloud.example,400,boutique restaurant group
+Drew,Larsen,Head of Growth,Harbor Studio,harborstudio.example,drew.larsen@harborstudio.example,150,boutique restaurant group
+Alex,Nguyen,Software Engineer,Ironleaf Systems,ironleafsystems.example,alex.nguyen@othermail-8.example,3,B2B marketplace focused on pipeline visibility
+Riley,Kim,Head of Revenue Operations,Northwind Cloud,northwindcloud.example,riley.kim@northwindcloud.example,2000,dental practice management
+Quinn,Nguyen,Head of Growth,Foxglove Works,foxgloveworks.example,quinn.nguyen@foxgloveworks.example,15,demand generation agency for B2B software companies
+Jordan,Larsen,Recruiter,Foxglove Systems,foxglovesystems.example,sales@foxglovesystems.example,2000,B2B marketplace focused on pipeline visibility
+Quinn,Larsen,VP Sales,Quartz Logistics,quartzlogistics.example,quinn.larsen@quartzlogistics.example,3,B2B marketplace focused on pipeline visibility
+Riley,Larsen,Recruiter,Foxglove Health,foxglovehealth.example,riley.larsen@foxglovehealth.example,150,demand generation agency for B2B software companies
+Sam,Haddad,Customer Support Lead,Tidal Logistics,tidallogistics.example,sam.haddad@tidallogistics.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Taylor,Garcia,Customer Support Lead,Quartz Labs,quartzlabs.example,taylor.garcia@quartzlabs.example,90,boutique restaurant group
+Taylor,Patel,Customer Support Lead,Foxglove Works,foxgloveworks.example,taylor.patel@foxgloveworks.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Kim,Head of Growth,Northwind Studio,northwindstudio.example,reese.kim@northwindstudio.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Kim,Customer Support Lead,Tidal Health,tidalhealth.example,reese.kim@tidalhealth.example,90,dental practice management
+Jordan,Kim,,Northwind Health,northwindhealth.example,jordan.kimatnorthwindhealth.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Alex,Novak,VP Marketing,Summit Labs,summitlabs.example,alex.novak@summitlabs.example,90,B2B marketplace focused on pipeline visibility
+Casey,Kim,Accountant,Foxglove Logistics,foxglovelogistics.example,casey.kim@foxglovelogistics.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jamie,Reyes,Founder,Tidal Systems,tidalsystems.example,jamie.reyes@tidalsystems.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Novak,CEO,Ironleaf Systems,ironleafsystems.example,riley.novak@ironleafsystems.example,40,dental practice management
+Jordan,Okafor,VP Marketing,Lumen Studio,lumenstudio.example,jordan.okafor@lumenstudio.example,15,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Brandt,,Summit Systems,summitsystems.example,reese.brandt@summitsystems.example,8,B2B marketplace focused on pipeline visibility
+Jordan,Nguyen,Office Manager,Summit Studio,summitstudio.example,support@summitstudio.example,40,dental practice management
+Morgan,Haddad,Head of Revenue Operations,Northwind Works,northwindworks.example,morgan.haddad@northwindworks.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jordan,Larsen,Customer Support Lead,Bluepeak Logistics,bluepeaklogistics.example,jordan.larsen@bluepeaklogistics.example,3,boutique restaurant group
+Quinn,Brandt,VP Marketing,Ironleaf Labs,ironleaflabs.example,quinn.brandt@ironleaflabs.example,3,B2B marketplace focused on pipeline visibility
+Taylor,Okafor,Recruiter,Ironleaf Systems,ironleafsystems.example,taylor.okafor@ironleafsystems.example,40,B2B marketplace focused on pipeline visibility
+Morgan,Garcia,VP Marketing,Quartz Studio,quartzstudio.example,morgan.garcia@quartzstudio.example,8,demand generation agency for B2B software companies
+Casey,Nguyen,Head of Growth,Kestrel Works,kestrelworks.example,casey.nguyen@kestrelworks.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Drew,Kim,GTM Engineer,Northwind Logistics,northwindlogistics.example,drew.kim@northwindlogistics.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jordan,Haddad,CEO,Kestrel Studio,kestrelstudio.example,jordan.haddad@kestrelstudio.example,15,regional landscaping and snow removal service
+Jamie,Novak,Customer Support Lead,Lumen Systems,lumensystems.example,jamie.novak@lumensystems.example,8,dental practice management
+Jamie,Kim,Accountant,Quartz Systems,quartzsystems.example,jamie.kimatquartzsystems.example,3,regional landscaping and snow removal service
+Riley,Nguyen,Customer Support Lead,Bluepeak Works,bluepeakworks.example,riley.nguyen@bluepeakworks.example,90,SaaS analytics product for logistics teams
+Riley,Mori,Software Engineer,Lumen Systems,lumensystems.example,sales@lumensystems.example,400,demand generation agency for B2B software companies
+Riley,Okafor,Founder,Kestrel Labs,kestrellabs.example,riley.okafor@kestrellabs.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Morgan,Larsen,VP Marketing,Kestrel Logistics,kestrellogistics.example,morgan.larsen@kestrellogistics.example,3,dental practice management
+Quinn,Silva,Customer Support Lead,Northwind Systems,northwindsystems.example,quinn.silva@othermail-9.example,8,B2B marketplace focused on pipeline visibility
+Alex,Nguyen,Customer Support Lead,Lumen Works,lumenworks.example,alex.nguyen@lumenworks.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Sam,Novak,Recruiter,Foxglove Labs,foxglovelabs.example,sam.novak@foxglovelabs.example,2000,dental practice management
+Quinn,Nguyen,Office Manager,Harbor Cloud,harborcloud.example,quinn.nguyen@harborcloud.example,8,SaaS analytics product for logistics teams
+Reese,Kim,Head of Growth,Bluepeak Health,bluepeakhealth.example,reese.kim@bluepeakhealth.example,400,B2B marketplace focused on pipeline visibility
+Jamie,Larsen,Head of Growth,Bluepeak Labs,bluepeaklabs.example,jamie.larsen@bluepeaklabs.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Patel,VP Sales,Northwind Analytics,northwindanalytics.example,reese.patel@northwindanalytics.example,15,dental practice management
+Taylor,Haddad,Accountant,Tidal Logistics,tidallogistics.example,hello@tidallogistics.example,400,regional landscaping and snow removal service
+Drew,Patel,Customer Support Lead,Tidal Health,tidalhealth.example,drew.patel@othermail-6.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Alex,Patel,Office Manager,Bluepeak Studio,bluepeakstudio.example,sales@bluepeakstudio.example,150,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Quinn,Kim,Head of Growth,Harbor Health,harborhealth.example,quinn.kim@harborhealth.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Silva,CEO,Ironleaf Health,ironleafhealth.example,riley.silva@ironleafhealth.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Sam,Silva,CEO,Foxglove Works,foxgloveworks.example,sam.silva@foxgloveworks.example,3,SaaS analytics product for logistics teams
+Casey,Okafor,Software Engineer,Harbor Analytics,harboranalytics.example,casey.okafor@harboranalytics.example,15,boutique restaurant group
+Quinn,Patel,Office Manager,Bluepeak Cloud,bluepeakcloud.example,quinn.patel@othermail-7.example,2000,demand generation agency for B2B software companies
+Morgan,Silva,VP Marketing,Tidal Works,tidalworks.example,morgansilva@gmail.com,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Quinn,Patel,Software Engineer,Lumen Analytics,lumenanalytics.example,quinn.patel@lumenanalytics.example,2000,B2B marketplace focused on pipeline visibility
+Reese,Mori,Office Manager,Ironleaf Analytics,ironleafanalytics.example,reese.mori@ironleafanalytics.example,150,regional landscaping and snow removal service
+Avery,Nguyen,Recruiter,Foxglove Systems,foxglovesystems.example,avery.nguyen@foxglovesystems.example,2000,B2B marketplace focused on pipeline visibility
+Avery,Larsen,CEO,Quartz Studio,quartzstudio.example,avery.larsen@quartzstudio.example,90,SaaS analytics product for logistics teams
+Alex,Silva,GTM Engineer,Bluepeak Logistics,bluepeaklogistics.example,alex.silva@bluepeaklogistics.example,8,demand generation agency for B2B software companies
+Reese,Kim,Customer Support Lead,Ironleaf Analytics,ironleafanalytics.example,reese.kim@ironleafanalytics.example,2000,dental practice management
+Taylor,Novak,VP Marketing,Harbor Analytics,harboranalytics.example,taylor.novak@harboranalytics.example,40,SaaS analytics product for logistics teams
+Reese,Brandt,Head of Growth,Summit Health,summithealth.example,reese.brandt@summithealth.example,3,B2B marketplace focused on pipeline visibility
+Casey,Kim,Office Manager,Bluepeak Systems,bluepeaksystems.example,casey.kim@bluepeaksystems.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Casey,Silva,VP Sales,Foxglove Works,foxgloveworks.example,casey.silva@foxgloveworks.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Kim,Head of Growth,Quartz Works,quartzworks.example,riley.kim@quartzworks.example,2000,SaaS analytics product for logistics teams
+Alex,Kim,VP Sales,Kestrel Health,kestrelhealth.example,sales@kestrelhealth.example,400,demand generation agency for B2B software companies
+Morgan,Okafor,Head of Growth,Harbor Systems,harborsystems.example,morgan.okafor@harborsystems.example,3,B2B marketplace focused on pipeline visibility
+Casey,Patel,Founder,Bluepeak Analytics,bluepeakanalytics.example,casey.patel@bluepeakanalytics.example,90,dental practice management
+Sam,Reyes,VP Sales,Lumen Labs,lumenlabs.example,sam.reyes@lumenlabs.example,400,demand generation agency for B2B software companies
+Reese,Garcia,VP Marketing,Ironleaf Studio,ironleafstudio.example,reese.garcia@ironleafstudio.example,150,demand generation agency for B2B software companies
+Avery,Garcia,Office Manager,Kestrel Logistics,kestrellogistics.example,avery.garcia@kestrellogistics.example,150,demand generation agency for B2B software companies
+Jamie,Okafor,Head of Revenue Operations,Tidal Analytics,tidalanalytics.example,jamie.okafor@tidalanalytics.example,90,regional landscaping and snow removal service
+Quinn,Okafor,Customer Support Lead,Lumen Studio,lumenstudio.example,quinn.okafor@lumenstudio.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Casey,Garcia,Accountant,Lumen Studio,lumenstudio.example,casey.garcia@lumenstudio.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Sam,Okafor,Head of Growth,Summit Labs,summitlabs.example,sam.okafor@summitlabs.example,400,SaaS analytics product for logistics teams
+Taylor,Novak,VP Marketing,Harbor Analytics,harboranalytics.example,taylor.novak@harboranalytics.example,40,SaaS analytics product for logistics teams
+Jamie,Reyes,VP Sales,Summit Studio,summitstudio.example,jamie.reyes@summitstudio.example,3,boutique restaurant group
+Jordan,Okafor,GTM Engineer,Tidal Works,tidalworks.example,jordan.okafor@tidalworks.example,90,demand generation agency for B2B software companies
+Reese,Silva,Recruiter,Lumen Systems,lumensystems.example,reese.silva@lumensystems.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Quinn,Patel,Customer Support Lead,Tidal Labs,tidallabs.example,quinn.patel@tidallabs.example,3,SaaS analytics product for logistics teams
+Avery,Haddad,Accountant,Kestrel Cloud,kestrelcloud.example,avery.haddad@kestrelcloud.example,2000,regional landscaping and snow removal service
+Casey,Kim,Accountant,Foxglove Logistics,foxglovelogistics.example,casey.kim@foxglovelogistics.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Reyes,CEO,Quartz Systems,quartzsystems.example,riley.reyes@quartzsystems.example,15,regional landscaping and snow removal service
+Sam,Patel,Office Manager,Foxglove Studio,foxglovestudio.example,sam.patel@foxglovestudio.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Taylor,Mori,Recruiter,Ironleaf Studio,ironleafstudio.example,taylor.mori@ironleafstudio.example,40,regional landscaping and snow removal service
+Taylor,Novak,VP Sales,Quartz Systems,quartzsystems.example,taylor.novak@quartzsystems.example,150,dental practice management
+Quinn,Silva,Recruiter,Lumen Studio,lumenstudio.example,quinn.silva@lumenstudio.example,90,SaaS analytics product for logistics teams
+Casey,Mori,Head of Growth,Northwind Studio,northwindstudio.example,casey.mori@northwindstudio.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Drew,Okafor,GTM Engineer,Ironleaf Works,ironleafworks.example,drew.okafor@ironleafworks.example,8,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jordan,Nguyen,Office Manager,Lumen Works,lumenworks.example,jordan.nguyenatlumenworks.example,15,SaaS analytics product for logistics teams
+Casey,Patel,Head of Revenue Operations,Harbor Systems,harborsystems.example,casey.patel@harborsystems.example,400,regional landscaping and snow removal service
+Riley,Patel,CEO,Kestrel Analytics,kestrelanalytics.example,riley.patel@kestrelanalytics.example,3,SaaS analytics product for logistics teams
+Drew,Reyes,CEO,Northwind Labs,northwindlabs.example,drewreyes@gmail.com,40,B2B marketplace focused on pipeline visibility
+Avery,Kim,Head of Growth,Kestrel Systems,kestrelsystems.example,avery.kim@kestrelsystems.example,40,dental practice management
+Riley,Patel,Founder,Harbor Logistics,harborlogistics.example,riley.patel@harborlogistics.example,150,SaaS analytics product for logistics teams
+Avery,Kim,Accountant,Summit Analytics,summitanalytics.example,support@summitanalytics.example,90,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Jordan,Nguyen,Customer Support Lead,Foxglove Studio,foxglovestudio.example,jordan.nguyen@othermail-7.example,15,regional landscaping and snow removal service
+Drew,Kim,VP Sales,Lumen Analytics,lumenanalytics.example,sales@lumenanalytics.example,90,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Riley,Patel,GTM Engineer,Tidal Studio,tidalstudio.example,riley.patel@tidalstudio.example,8,demand generation agency for B2B software companies
+Sam,Novak,VP Marketing,Harbor Logistics,harborlogistics.example,sam.novak@harborlogistics.example,40,boutique restaurant group
+Riley,Kim,,Quartz Works,quartzworks.example,riley.kim@quartzworks.example,150,boutique restaurant group
+Quinn,Silva,Recruiter,Northwind Labs,northwindlabs.example,quinn.silva@northwindlabs.example,150,SaaS analytics product for logistics teams
+Quinn,Patel,Customer Support Lead,Tidal Labs,tidallabs.example,quinn.patel@tidallabs.example,3,SaaS analytics product for logistics teams
+Jordan,Silva,VP Sales,Quartz Cloud,quartzcloud.example,jordan.silva@quartzcloud.example,2000,demand generation agency for B2B software companies
+Taylor,Garcia,Customer Support Lead,Northwind Labs,northwindlabs.example,taylor.garcia@northwindlabs.example,400,dental practice management
+Avery,Mori,VP Marketing,Bluepeak Cloud,bluepeakcloud.example,avery.mori@othermail-5.example,3,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Alex,Nguyen,Customer Support Lead,Tidal Health,tidalhealth.example,support@tidalhealth.example,150,SaaS analytics product for logistics teams
+Casey,Larsen,Customer Support Lead,Northwind Labs,northwindlabs.example,casey.larsen@northwindlabs.example,2000,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Alex,Okafor,Customer Support Lead,Tidal Cloud,tidalcloud.example,alexokafor@gmail.com,90,boutique restaurant group
+Drew,Garcia,,Bluepeak Systems,bluepeaksystems.example,drew.garcia@bluepeaksystems.example,90,dental practice management
+Avery,Brandt,GTM Engineer,Northwind Systems,northwindsystems.example,avery.brandt@northwindsystems.example,40,B2B marketplace focused on pipeline visibility
+Morgan,Haddad,Customer Support Lead,Harbor Works,harborworks.example,morgan.haddad@harborworks.example,40,boutique restaurant group
+Casey,Patel,Founder,Bluepeak Analytics,bluepeakanalytics.example,casey.patel@bluepeakanalytics.example,90,dental practice management
+Alex,Patel,Office Manager,Bluepeak Studio,bluepeakstudio.example,sales@bluepeakstudio.example,150,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Alex,Larsen,Accountant,Northwind Labs,northwindlabs.example,alex.larsen@northwindlabs.example,2000,dental practice management
+Quinn,Novak,Customer Support Lead,Foxglove Labs,foxglovelabs.example,quinn.novak@foxglovelabs.example,15,boutique restaurant group
+Morgan,Novak,GTM Engineer,Ironleaf Analytics,ironleafanalytics.example,morgan.novak@ironleafanalytics.example,90,B2B marketplace focused on pipeline visibility
+Casey,Brandt,Head of Growth,Quartz Analytics,quartzanalytics.example,casey.brandt@quartzanalytics.example,8,demand generation agency for B2B software companies
+Casey,Brandt,Office Manager,Harbor Studio,harborstudio.example,casey.brandt@harborstudio.example,2000,dental practice management
+Quinn,Brandt,,Summit Works,summitworks.example,quinn.brandt@summitworks.example,8,boutique restaurant group
+Riley,Brandt,Head of Growth,Lumen Labs,lumenlabs.example,riley.brandt@lumenlabs.example,8,regional landscaping and snow removal service
+Alex,Okafor,Head of Revenue Operations,Ironleaf Health,ironleafhealth.example,alex.okafor@ironleafhealth.example,400,dental practice management
+Morgan,Nguyen,GTM Engineer,Ironleaf Works,ironleafworks.example,morgan.nguyen@ironleafworks.example,3,dental practice management
+Casey,Okafor,Software Engineer,Kestrel Logistics,kestrellogistics.example,hello@kestrellogistics.example,3,B2B marketplace focused on pipeline visibility
+Jamie,Reyes,CEO,Northwind Analytics,northwindanalytics.example,jamie.reyes@northwindanalytics.example,90,demand generation agency for B2B software companies
+Casey,Reyes,VP Marketing,Summit Cloud,summitcloud.example,casey.reyes@summitcloud.example,8,SaaS analytics product for logistics teams
+Quinn,Silva,Recruiter,Northwind Labs,northwindlabs.example,quinn.silva@northwindlabs.example,150,SaaS analytics product for logistics teams
+Drew,Novak,Office Manager,Tidal Analytics,tidalanalytics.example,info@tidalanalytics.example,8,B2B marketplace focused on pipeline visibility
+Reese,Okafor,Head of Growth,Foxglove Studio,foxglovestudio.example,reese.okafor@foxglovestudio.example,150,dental practice management
+Jordan,Nguyen,VP Marketing,Foxglove Works,foxgloveworks.example,jordan.nguyen@foxgloveworks.example,15,dental practice management
+Morgan,Silva,GTM Engineer,Quartz Analytics,quartzanalytics.example,morgan.silva@quartzanalytics.example,2000,dental practice management
+Avery,Okafor,CEO,Summit Labs,summitlabs.example,avery.okafor@summitlabs.example,90,SaaS analytics product for logistics teams
+Casey,Novak,Recruiter,Harbor Cloud,harborcloud.example,casey.novak@harborcloud.example,15,dental practice management
+Avery,Silva,Head of Revenue Operations,Lumen Health,lumenhealth.example,avery.silva@lumenhealth.example,15,boutique restaurant group
+Reese,Brandt,VP Sales,Harbor Health,harborhealth.example,reese.brandt@harborhealth.example,400,dental practice management
+Taylor,Brandt,Head of Growth,Lumen Cloud,lumencloud.example,taylor.brandt@lumencloud.example,8,boutique restaurant group
+Casey,Kim,GTM Engineer,Ironleaf Systems,ironleafsystems.example,casey.kim@ironleafsystems.example,90,demand generation agency for B2B software companies
+Casey,Novak,CEO,Bluepeak Studio,bluepeakstudio.example,casey.novak@othermail-4.example,8,demand generation agency for B2B software companies
+Jordan,Larsen,Accountant,Harbor Studio,harborstudio.example,jordan.larsen@harborstudio.example,3,regional landscaping and snow removal service
+Jamie,Haddad,Accountant,Foxglove Labs,foxglovelabs.example,jamie.haddad@foxglovelabs.example,2000,demand generation agency for B2B software companies
+Drew,Nguyen,Customer Support Lead,Foxglove Labs,foxglovelabs.example,drew.nguyen@foxglovelabs.example,40,dental practice management
+Riley,Novak,VP Sales,Lumen Labs,lumenlabs.example,rileynovak@gmail.com,40,demand generation agency for B2B software companies
+Morgan,Nguyen,GTM Engineer,Northwind Works,northwindworks.example,morgan.nguyen@othermail-3.example,3,boutique restaurant group
+Alex,Okafor,VP Marketing,Northwind Health,northwindhealth.example,alex.okafor@northwindhealth.example,8,SaaS analytics product for logistics teams
+Reese,Silva,Head of Revenue Operations,Lumen Analytics,lumenanalytics.example,reese.silva@lumenanalytics.example,15,demand generation agency for B2B software companies
+Riley,Larsen,Recruiter,Foxglove Health,foxglovehealth.example,riley.larsen@foxglovehealth.example,150,demand generation agency for B2B software companies
+Avery,Novak,VP Sales,Tidal Studio,tidalstudio.example,avery.novak@tidalstudio.example,40,demand generation agency for B2B software companies
+Alex,Reyes,VP Sales,Bluepeak Cloud,bluepeakcloud.example,alexreyes@gmail.com,8,SaaS analytics product for logistics teams
+Drew,Garcia,VP Sales,Summit Systems,summitsystems.example,drew.garcia@summitsystems.example,400,regional landscaping and snow removal service
+Jamie,Nguyen,Software Engineer,Bluepeak Works,bluepeakworks.example,jamie.nguyen@bluepeakworks.example,40,dental practice management
+Sam,Novak,GTM Engineer,Kestrel Labs,kestrellabs.example,sam.novak@kestrellabs.example,2000,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Mori,VP Sales,Quartz Studio,quartzstudio.example,reese.mori@quartzstudio.example,2000,regional landscaping and snow removal service
+Reese,Brandt,GTM Engineer,Quartz Analytics,quartzanalytics.example,reese.brandt@quartzanalytics.example,150,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Taylor,Nguyen,Head of Growth,Kestrel Logistics,kestrellogistics.example,taylor.nguyen@kestrellogistics.example,3,demand generation agency for B2B software companies
+Quinn,Silva,CEO,Ironleaf Logistics,ironleaflogistics.example,quinn.silva@ironleaflogistics.example,2000,dental practice management
+Casey,Novak,VP Marketing,Lumen Analytics,lumenanalytics.example,casey.novak@lumenanalytics.example,150,B2B marketplace focused on pipeline visibility
+Jordan,Brandt,Head of Revenue Operations,Ironleaf Systems,ironleafsystems.example,jordan.brandt@ironleafsystems.example,15,regional landscaping and snow removal service
+Avery,Okafor,Accountant,Kestrel Works,kestrelworks.example,info@kestrelworks.example,2000,boutique restaurant group
+Jamie,Okafor,Head of Revenue Operations,Tidal Analytics,tidalanalytics.example,jamie.okafor@tidalanalytics.example,90,regional landscaping and snow removal service
+Reese,Novak,GTM Engineer,Harbor Cloud,harborcloud.example,reese.novak@harborcloud.example,15,dental practice management
+Riley,Silva,Office Manager,Foxglove Analytics,foxgloveanalytics.example,riley.silva@foxgloveanalytics.example,3,boutique restaurant group
+Riley,Larsen,Recruiter,Summit Studio,summitstudio.example,rileylarsen@gmail.com,2000,B2B marketplace focused on pipeline visibility
+Avery,Mori,Founder,Foxglove Works,foxgloveworks.example,avery.mori@foxgloveworks.example,15,B2B marketplace focused on pipeline visibility
+Casey,Mori,Recruiter,Tidal Analytics,tidalanalytics.example,casey.mori@othermail-3.example,40,boutique restaurant group
+Casey,Okafor,VP Sales,Summit Systems,summitsystems.example,casey.okafor@summitsystems.example,150,regional landscaping and snow removal service
+Riley,Kim,,Quartz Systems,quartzsystems.example,riley.kim@quartzsystems.example,40,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Taylor,Brandt,GTM Engineer,Lumen Studio,lumenstudio.example,taylor.brandt@lumenstudio.example,2000,demand generation agency for B2B software companies
+Sam,Larsen,,Kestrel Systems,kestrelsystems.example,sam.larsen@kestrelsystems.example,150,demand generation agency for B2B software companies
+Avery,Okafor,GTM Engineer,Foxglove Health,foxglovehealth.example,avery.okafor@foxglovehealth.example,90,boutique restaurant group
+Jamie,Novak,VP Marketing,Bluepeak Logistics,bluepeaklogistics.example,jamie.novakatbluepeaklogistics.example,15,boutique restaurant group
+Quinn,Kim,Head of Revenue Operations,Ironleaf Works,ironleafworks.example,quinn.kim@ironleafworks.example,2000,regional landscaping and snow removal service
+Drew,Garcia,Software Engineer,Summit Health,summithealth.example,info@summithealth.example,8,demand generation agency for B2B software companies
+Reese,Nguyen,Recruiter,Foxglove Studio,foxglovestudio.example,reese.nguyen@foxglovestudio.example,90,SaaS analytics product for logistics teams
+Riley,Garcia,Customer Support Lead,Summit Cloud,summitcloud.example,riley.garcia@summitcloud.example,90,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Reese,Novak,,Bluepeak Labs,bluepeaklabs.example,reese.novak@bluepeaklabs.example,15,boutique restaurant group
+Casey,Kim,VP Marketing,Foxglove Analytics,foxgloveanalytics.example,casey.kim@foxgloveanalytics.example,90,B2B marketplace focused on pipeline visibility
+Avery,Larsen,Recruiter,Ironleaf Studio,ironleafstudio.example,avery.larsen@ironleafstudio.example,40,boutique restaurant group
+Taylor,Brandt,Head of Revenue Operations,Northwind Cloud,northwindcloud.example,hello@northwindcloud.example,90,regional landscaping and snow removal service
+Alex,Reyes,Head of Revenue Operations,Foxglove Health,foxglovehealth.example,hello@foxglovehealth.example,150,SaaS analytics product for logistics teams
+Riley,Novak,VP Sales,Lumen Labs,lumenlabs.example,rileynovak@gmail.com,40,demand generation agency for B2B software companies
+Quinn,Mori,GTM Engineer,Harbor Studio,harborstudio.example,quinn.mori@othermail-5.example,8,dental practice management
+Taylor,Kim,,Summit Analytics,summitanalytics.example,taylor.kim@othermail-3.example,90,regional landscaping and snow removal service
+Jordan,Mori,Founder,Foxglove Logistics,foxglovelogistics.example,jordanmori@gmail.com,40,B2B marketplace focused on pipeline visibility
+Jamie,Novak,Office Manager,Lumen Health,lumenhealth.example,jamie.novak@lumenhealth.example,90,B2B marketplace focused on pipeline visibility
+Riley,Kim,Head of Revenue Operations,Northwind Cloud,northwindcloud.example,riley.kim@northwindcloud.example,2000,dental practice management
+Quinn,Mori,Customer Support Lead,Northwind Health,northwindhealth.example,quinn.mori@northwindhealth.example,15,dental practice management
+Reese,Silva,Founder,Lumen Studio,lumenstudio.example,reesesilva@gmail.com,15,dental practice management
+Sam,Patel,,Summit Works,summitworks.example,sam.patel@summitworks.example,40,regional landscaping and snow removal service
+Sam,Kim,Head of Revenue Operations,Bluepeak Analytics,bluepeakanalytics.example,sam.kim@bluepeakanalytics.example,40,dental practice management
+Alex,Larsen,Head of Revenue Operations,Lumen Studio,lumenstudio.example,alex.larsen@lumenstudio.example,400,B2B SaaS platform for revenue teams with outbound and pipeline tooling
+Morgan,Larsen,Head of Revenue Operations,Tidal Labs,tidallabs.example,morgan.larsen@tidallabs.example,2000,boutique restaurant group
+Jordan,Okafor,Recruiter,Quartz Health,quartzhealth.example,jordanokafor@gmail.com,3,boutique restaurant group
+Casey,Brandt,Head of Revenue Operations,Kestrel Labs,kestrellabs.example,casey.brandt@kestrellabs.example,90,regional landscaping and snow removal service
+Reese,Nguyen,Recruiter,Quartz Cloud,quartzcloud.example,reese.nguyen@quartzcloud.example,400,boutique restaurant group
+Avery,Haddad,Office Manager,Northwind Analytics,northwindanalytics.example,avery.haddad@northwindanalytics.example,8,boutique restaurant group
+Drew,Silva,Recruiter,Kestrel Studio,kestrelstudio.example,drew.silvaatkestrelstudio.example,15,B2B SaaS platform for revenue teams with outbound and pipeline tooling
